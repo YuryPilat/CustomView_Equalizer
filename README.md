@@ -1,1 +1,1 @@
-# yuraStudy
+# Example of CustomView
