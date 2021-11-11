@@ -1,1 +1,1 @@
-# Example of CustomView
+# Example of CustomView - Equalizer
