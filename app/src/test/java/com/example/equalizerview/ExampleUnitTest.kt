@@ -1,4 +1,4 @@
-package com.example.androidbeginner
+package com.example.equalizerview
 
 import org.junit.Test
 

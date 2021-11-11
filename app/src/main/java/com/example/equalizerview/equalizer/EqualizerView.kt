@@ -1,4 +1,4 @@
-package com.example.androidbeginner.equalizer
+package com.example.equalizerview.equalizer
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -8,7 +8,7 @@ import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
-import com.example.androidbeginner.R
+import com.example.equalizerview.R
 
 private const val COMMON_MARGIN = 10f
 private const val START_HEIGHT = 100

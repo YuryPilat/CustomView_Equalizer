@@ -1,9 +1,9 @@
-package com.example.androidbeginner
+package com.example.equalizerview
 
 import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.androidbeginner.equalizer.EqualizerView
+import com.example.equalizerview.equalizer.EqualizerView
 
 class MainActivity : AppCompatActivity(), EqualizerView.OnEqualizerDataChanged {
 
